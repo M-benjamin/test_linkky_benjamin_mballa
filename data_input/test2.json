@@ -1,0 +1,46 @@
+{
+    "polls": [{
+            "id": 1,
+            "question": "Pensez-vous utiliser le service de cordonnerie/pressing au moins 2 fois par mois ?"
+        },
+        {
+            "id": 2,
+            "question": "Avez-vous passé une bonne semaine ?"
+        },
+        {
+            "id": 3,
+            "question": "Le saviez-vous ? Il existe une journée d'accompagnement familial."
+        }
+    ],
+    "answers": [{
+            "id": 1,
+            "poll_id": 1,
+            "value": true
+        },
+        {
+            "id": 2,
+            "poll_id": 3,
+            "value": false
+        },
+        {
+            "id": 3,
+            "poll_id": 2,
+            "value": 3
+        },
+        {
+            "id": 4,
+            "poll_id": 1,
+            "value": false
+        },
+        {
+            "id": 5,
+            "poll_id": 2,
+            "value": false
+        },
+        {
+            "id": 6,
+            "poll_id": 2,
+            "value": 1
+        }
+    ]
+}
